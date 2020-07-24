@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "fbfef17e-2279-404f-b12a-a41f02cbc9a9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dat cuoc xanh": {
+      "ver": "1.0.3",
+      "uuid": "dfeee9b4-f2ce-4983-986d-54ac8ed10f82",
+      "rawTextureUuid": "fbfef17e-2279-404f-b12a-a41f02cbc9a9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 37,
+      "height": 59,
+      "rawWidth": 37,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

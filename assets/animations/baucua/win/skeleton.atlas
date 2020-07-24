@@ -1,0 +1,206 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ll
+  rotate: true
+  xy: 514, 25
+  size: 479, 301
+  orig: 479, 301
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: true
+  xy: 817, 2
+  size: 502, 205
+  orig: 502, 205
+  offset: 0, 0
+  index: -1
+win_gold_fly_1
+  rotate: false
+  xy: 2, 686
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_2
+  rotate: false
+  xy: 2, 354
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_3
+  rotate: true
+  xy: 514, 506
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_4
+  rotate: false
+  xy: 2, 22
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 514, 164
+  size: 431, 320
+  orig: 431, 320
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 514, 755
+  size: 467, 241
+  orig: 467, 241
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 514, 486
+  size: 451, 267
+  orig: 451, 267
+  offset: 0, 0
+  index: -1
+win_gold_fly_5
+  rotate: false
+  xy: 2, 666
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_6
+  rotate: false
+  xy: 2, 334
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_7
+  rotate: false
+  xy: 2, 2
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1_00000
+  rotate: false
+  xy: 514, 249
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00001
+  rotate: false
+  xy: 514, 2
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+win_gold_fly_10
+  rotate: true
+  xy: 514, 496
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_11
+  rotate: false
+  xy: 2, 12
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_8
+  rotate: false
+  xy: 2, 676
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_9
+  rotate: false
+  xy: 2, 344
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1_00002
+  rotate: false
+  xy: 2, 743
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00003
+  rotate: false
+  xy: 2, 496
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00004
+  rotate: false
+  xy: 304, 743
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00005
+  rotate: false
+  xy: 2, 249
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00006
+  rotate: false
+  xy: 304, 496
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00007
+  rotate: false
+  xy: 606, 743
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00008
+  rotate: false
+  xy: 2, 2
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00009
+  rotate: false
+  xy: 304, 249
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+bomb.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-1
+  rotate: false
+  xy: 2, 248
+  size: 248, 244
+  orig: 248, 244
+  offset: 0, 0
+  index: -1
+Layer-2
+  rotate: false
+  xy: 2, 2
+  size: 248, 244
+  orig: 248, 244
+  offset: 0, 0
+  index: -1
+Layer-3
+  rotate: false
+  xy: 252, 248
+  size: 248, 244
+  orig: 248, 244
+  offset: 0, 0
+  index: -1
+Layer-4
+  rotate: false
+  xy: 252, 2
+  size: 248, 244
+  orig: 248, 244
+  offset: 0, 0
+  index: -1
+Layer-5
+  rotate: false
+  xy: 502, 248
+  size: 248, 244
+  orig: 248, 244
+  offset: 0, 0
+  index: -1
+Layer-6
+  rotate: false
+  xy: 502, 2
+  size: 248, 244
+  orig: 248, 244
+  offset: 0, 0
+  index: -1
+Layer7
+  rotate: false
+  xy: 752, 391
+  size: 208, 101
+  orig: 208, 101
+  offset: 0, 0
+  index: -1

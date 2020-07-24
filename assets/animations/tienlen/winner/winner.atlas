@@ -1,0 +1,55 @@
+
+winner.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6 Pairs
+  rotate: false
+  xy: 448, 2
+  size: 750, 443
+  orig: 750, 443
+  offset: 0, 0
+  index: -1
+Dragon
+  rotate: false
+  xy: 683, 892
+  size: 750, 443
+  orig: 750, 443
+  offset: 0, 0
+  index: -1
+Five Consecutive Pairs
+  rotate: true
+  xy: 1435, 1031
+  size: 750, 443
+  orig: 750, 443
+  offset: 0, 0
+  index: -1
+Four 2s
+  rotate: true
+  xy: 2, 301
+  size: 750, 444
+  orig: 750, 444
+  offset: 0, 0
+  index: -1
+Four 3s
+  rotate: false
+  xy: 683, 1337
+  size: 750, 444
+  orig: 750, 444
+  offset: 0, 0
+  index: -1
+Four triples
+  rotate: false
+  xy: 448, 447
+  size: 750, 443
+  orig: 750, 443
+  offset: 0, 0
+  index: -1
+ef
+  rotate: false
+  xy: 2, 1053
+  size: 679, 728
+  orig: 679, 728
+  offset: 0, 0
+  index: -1

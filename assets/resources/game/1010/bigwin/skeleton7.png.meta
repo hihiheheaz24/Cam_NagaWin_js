@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "45e1d3f0-b07d-4cab-a554-690170322e50",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "skeleton7": {
+      "ver": "1.0.3",
+      "uuid": "5b2927ce-a5e0-4b18-9d4e-c4fad55a49d5",
+      "rawTextureUuid": "45e1d3f0-b07d-4cab-a554-690170322e50",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -17.5,
+      "offsetY": 8,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 985,
+      "height": 1004,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

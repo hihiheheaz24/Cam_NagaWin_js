@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "977a5378-97dd-447b-9706-51f1f0892022",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BigRoad_P_PB": {
+      "ver": "1.0.3",
+      "uuid": "226dcef2-3d03-429b-b51e-9a43b95911a8",
+      "rawTextureUuid": "977a5378-97dd-447b-9706-51f1f0892022",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 20,
+      "height": 20,
+      "rawWidth": 20,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

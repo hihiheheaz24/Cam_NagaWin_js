@@ -1,0 +1,196 @@
+
+lose.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-100K copy 3
+  rotate: false
+  xy: 2, 2
+  size: 116, 42
+  orig: 116, 42
+  offset: 0, 0
+  index: -1
+-100K copy 666
+  rotate: false
+  xy: 864, 814
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1
+anim_lost_leaf_1
+  rotate: false
+  xy: 2, 610
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+anim_lost_leaf_2
+  rotate: false
+  xy: 2, 328
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+anim_lost_leaf_3
+  rotate: false
+  xy: 2, 46
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+
+lose2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anim_lost_leaf_4
+  rotate: false
+  xy: 2, 566
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+anim_lost_leaf_5
+  rotate: false
+  xy: 2, 284
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+anim_lost_leaf_6
+  rotate: false
+  xy: 2, 2
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+
+lose3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anim_lost_leaf_7
+  rotate: false
+  xy: 2, 566
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+anim_lost_leaf_8
+  rotate: false
+  xy: 2, 284
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+anim_lost_leaf_9
+  rotate: false
+  xy: 2, 2
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+
+lose4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anim_lost_leaf_10
+  rotate: false
+  xy: 2, 566
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+anim_lost_leaf_11
+  rotate: false
+  xy: 2, 284
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+anim_lost_leaf_12
+  rotate: false
+  xy: 2, 2
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+
+lose5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anim_lost_leaf_13
+  rotate: false
+  xy: 2, 566
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+anim_lost_leaf_14
+  rotate: false
+  xy: 2, 284
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+anim_lost_leaf_15
+  rotate: false
+  xy: 2, 2
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+
+lose6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anim_lost_leaf_16
+  rotate: false
+  xy: 2, 566
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+anim_lost_leaf_17
+  rotate: false
+  xy: 2, 284
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+anim_lost_leaf_18
+  rotate: false
+  xy: 2, 2
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+
+lose7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anim_lost_leaf_19
+  rotate: false
+  xy: 2, 284
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1
+anim_lost_leaf_20
+  rotate: false
+  xy: 2, 2
+  size: 860, 280
+  orig: 860, 280
+  offset: 0, 0
+  index: -1

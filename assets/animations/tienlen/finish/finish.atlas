@@ -1,0 +1,41 @@
+
+finish.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Finish
+  rotate: false
+  xy: 349, 148
+  size: 239, 70
+  orig: 239, 70
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 676, 219
+  size: 293, 286
+  orig: 293, 286
+  offset: 0, 0
+  index: -1
+ef
+  rotate: false
+  xy: 349, 220
+  size: 325, 285
+  orig: 325, 285
+  offset: 0, 0
+  index: -1
+vong tron 1
+  rotate: false
+  xy: 2, 2
+  size: 166, 163
+  orig: 166, 163
+  offset: 0, 0
+  index: -1
+vong tron 2
+  rotate: false
+  xy: 2, 167
+  size: 345, 338
+  orig: 345, 338
+  offset: 0, 0
+  index: -1

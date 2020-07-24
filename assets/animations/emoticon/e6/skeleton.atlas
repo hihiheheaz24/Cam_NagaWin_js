@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face
+  rotate: false
+  xy: 2, 100
+  size: 169, 126
+  orig: 169, 126
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 2, 41
+  size: 119, 57
+  orig: 119, 57
+  offset: 0, 0
+  index: -1
+mom
+  rotate: false
+  xy: 212, 163
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+nuoc_mat_phai
+  rotate: true
+  xy: 2, 2
+  size: 37, 80
+  orig: 37, 80
+  offset: 0, 0
+  index: -1
+nuoc_mat_trai
+  rotate: false
+  xy: 173, 146
+  size: 37, 80
+  orig: 37, 80
+  offset: 0, 0
+  index: -1

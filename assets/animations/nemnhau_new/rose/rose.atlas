@@ -1,0 +1,124 @@
+rose.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: true
+  xy: 129, 105
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 74, 48
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: true
+  xy: 101, 51
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: true
+  xy: 63, 2
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 74, 74
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 188, 107
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 104, 30
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 129, 89
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 2, 2
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 26
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 103, 74
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 74, 26
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 158, 107
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 218, 108
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 74, 100
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 104, 100
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 35, 2
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1

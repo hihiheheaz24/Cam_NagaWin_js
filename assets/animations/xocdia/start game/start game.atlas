@@ -1,0 +1,20 @@
+
+start game.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ribbon
+  rotate: false
+  xy: 2, 67
+  size: 700, 162
+  orig: 700, 162
+  offset: 0, 0
+  index: -1
+start game copy
+  rotate: false
+  xy: 2, 2
+  size: 347, 63
+  orig: 347, 63
+  offset: 0, 0
+  index: -1

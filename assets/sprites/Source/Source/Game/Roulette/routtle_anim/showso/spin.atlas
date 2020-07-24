@@ -1,0 +1,55 @@
+
+spin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FREE SPIN2
+  rotate: false
+  xy: 615, 365
+  size: 182, 42
+  orig: 182, 42
+  offset: 0, 0
+  index: -1
+GLOW2
+  rotate: false
+  xy: 2, 356
+  size: 611, 561
+  orig: 611, 561
+  offset: 0, 0
+  index: -1
+frame
+  rotate: true
+  xy: 825, 470
+  size: 447, 142
+  orig: 447, 142
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: false
+  xy: 2, 2
+  size: 447, 142
+  orig: 447, 142
+  offset: 0, 0
+  index: -1
+frame_LIGHT
+  rotate: false
+  xy: 2, 146
+  size: 508, 208
+  orig: 508, 208
+  offset: 0, 0
+  index: -1
+frame_LIGHT2
+  rotate: true
+  xy: 615, 409
+  size: 508, 208
+  orig: 508, 208
+  offset: 0, 0
+  index: -1
+w
+  rotate: true
+  xy: 512, 166
+  size: 188, 64
+  orig: 188, 64
+  offset: 0, 0
+  index: -1

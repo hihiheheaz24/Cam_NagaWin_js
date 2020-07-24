@@ -1,0 +1,41 @@
+
+icon2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1 copy
+  rotate: false
+  xy: 280, 2
+  size: 254, 180
+  orig: 254, 180
+  offset: 0, 0
+  index: -1
+Layer 1 copy 2
+  rotate: false
+  xy: 2, 2
+  size: 276, 180
+  orig: 276, 180
+  offset: 0, 0
+  index: -1
+Layer 1 copy 3
+  rotate: false
+  xy: 2, 184
+  size: 277, 180
+  orig: 277, 180
+  offset: 0, 0
+  index: -1
+Layer 1 copy 3-1
+  rotate: false
+  xy: 281, 184
+  size: 258, 180
+  orig: 258, 180
+  offset: 0, 0
+  index: -1
+Layer 1 copy 4
+  rotate: false
+  xy: 541, 184
+  size: 217, 180
+  orig: 217, 180
+  offset: 0, 0
+  index: -1

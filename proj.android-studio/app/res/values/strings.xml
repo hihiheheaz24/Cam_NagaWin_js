@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">NGW-Khmers Cards Slots</string>
+    <string name="facebook_app_id" translatable="false">832822687082452</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb832822687082452</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN" translatable="false">665485c5168c544c84579dcb42f96d5b</string>
+    <string name="permissions_receive_sms_title" translatable="false">Read SMS Code</string>
+    <string name="permissions_receive_sms_message" translatable="false">Grant permission to read your SMS code from your device to pre-fill.</string>
+    <string name="permissions_read_phone_state_title" translatable="false">Read Phone Number</string>
+    <string name="permissions_read_phone_state_message" translatable="false">Grant permission to read your phone number from your device to pre-fill.</string>
+</resources>

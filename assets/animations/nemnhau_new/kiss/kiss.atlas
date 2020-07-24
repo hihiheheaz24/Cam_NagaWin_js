@@ -1,0 +1,48 @@
+
+kiss.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 98, 74
+  size: 98, 51
+  orig: 98, 51
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 67
+  size: 94, 58
+  orig: 94, 58
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 176, 2
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 98, 9
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 7
+  size: 93, 58
+  orig: 93, 58
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 198, 88
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823501188573",
+    "firebase_url": "https://ngwcardslots.firebaseio.com",
+    "project_id": "ngwcardslots",
+    "storage_bucket": "ngwcardslots.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823501188573:android:98508b9a7a6ae205",
+        "android_client_info": {
+          "package_name": "khmer.ngw.card.slot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823501188573-3l5o3bao11rl96cb2qq2m893ra9k9ibi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "khmer.ngw.card.slot",
+            "certificate_hash": "cf61023e8d5fe3db9c0c6d57aa6f1a84fe71a430"
+          }
+        },
+        {
+          "client_id": "823501188573-hajmteaotas7d3nukp3tlfh7svp72n9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc7tBhhvDGwJ3wZkBWjQdrIkIDXWh0O4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823501188573-hajmteaotas7d3nukp3tlfh7svp72n9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

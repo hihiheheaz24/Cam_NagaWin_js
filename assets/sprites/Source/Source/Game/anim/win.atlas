@@ -1,0 +1,34 @@
+
+win.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef
+  rotate: false
+  xy: 2, 2
+  size: 202, 211
+  orig: 202, 211
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 372, 78
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 206, 51
+  size: 106, 49
+  orig: 106, 49
+  offset: 0, 0
+  index: -1
+win copy
+  rotate: false
+  xy: 206, 102
+  size: 164, 111
+  orig: 164, 111
+  offset: 0, 0
+  index: -1

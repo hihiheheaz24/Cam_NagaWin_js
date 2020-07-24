@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1d9180af96e6510fe2b87eabcb001ac9177cbc63101d9-vqZoBS_fw658
+  rotate: false
+  xy: 2, 313
+  size: 700, 162
+  orig: 700, 162
+  offset: 0, 0
+  index: -1
+bau
+  rotate: false
+  xy: 245, 141
+  size: 102, 105
+  orig: 102, 105
+  offset: 0, 0
+  index: -1
+bau copy
+  rotate: false
+  xy: 842, 338
+  size: 135, 137
+  orig: 135, 137
+  offset: 0, 0
+  index: -1
+ca
+  rotate: false
+  xy: 2, 2
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+ca copy
+  rotate: false
+  xy: 2, 109
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: -1
+start game copy
+  rotate: false
+  xy: 2, 248
+  size: 347, 63
+  orig: 347, 63
+  offset: 0, 0
+  index: -1
+voi
+  rotate: false
+  xy: 140, 141
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+voi copy
+  rotate: false
+  xy: 704, 338
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: -1

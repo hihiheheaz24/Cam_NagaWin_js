@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "4b2af12b-cf56-4646-b826-bb94f1393800",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "nhap nhay vuong": {
+      "ver": "1.0.3",
+      "uuid": "8171d279-4160-4c69-89b6-13b797c02b86",
+      "rawTextureUuid": "4b2af12b-cf56-4646-b826-bb94f1393800",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 194,
+      "height": 157,
+      "rawWidth": 194,
+      "rawHeight": 157,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

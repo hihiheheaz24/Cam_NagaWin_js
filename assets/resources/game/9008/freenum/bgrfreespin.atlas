@@ -1,0 +1,97 @@
+
+bgrfreespin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_00000
+  rotate: false
+  xy: 2, 124
+  size: 235, 113
+  orig: 235, 113
+  offset: 0, 0
+  index: -1
+4_00001
+  rotate: false
+  xy: 2, 9
+  size: 235, 113
+  orig: 235, 113
+  offset: 0, 0
+  index: -1
+4_00002
+  rotate: false
+  xy: 239, 124
+  size: 235, 113
+  orig: 235, 113
+  offset: 0, 0
+  index: -1
+4_00003
+  rotate: false
+  xy: 239, 9
+  size: 235, 113
+  orig: 235, 113
+  offset: 0, 0
+  index: -1
+4_00004
+  rotate: false
+  xy: 518, 261
+  size: 235, 113
+  orig: 235, 113
+  offset: 0, 0
+  index: -1
+4_00005
+  rotate: false
+  xy: 755, 261
+  size: 235, 113
+  orig: 235, 113
+  offset: 0, 0
+  index: -1
+4_00006
+  rotate: true
+  xy: 476, 2
+  size: 235, 113
+  orig: 235, 113
+  offset: 0, 0
+  index: -1
+4_00007
+  rotate: false
+  xy: 591, 146
+  size: 235, 113
+  orig: 235, 113
+  offset: 0, 0
+  index: -1
+4_00008
+  rotate: false
+  xy: 591, 31
+  size: 235, 113
+  orig: 235, 113
+  offset: 0, 0
+  index: -1
+4_00009
+  rotate: true
+  xy: 828, 24
+  size: 235, 113
+  orig: 235, 113
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 518, 376
+  size: 479, 64
+  orig: 479, 64
+  offset: 0, 0
+  index: -1
+frame_LIGHT
+  rotate: false
+  xy: 2, 239
+  size: 507, 99
+  orig: 507, 99
+  offset: 0, 0
+  index: -1
+frame_LIGHT2
+  rotate: false
+  xy: 2, 340
+  size: 514, 100
+  orig: 514, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+dealer.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong khoanh tay
+  rotate: false
+  xy: 142, 195
+  size: 173, 46
+  orig: 173, 46
+  offset: 0, 0
+  index: -1
+bong tay chia
+  rotate: false
+  xy: 142, 150
+  size: 155, 43
+  orig: 155, 43
+  offset: 0, 0
+  index: -1
+canh tay chia
+  rotate: true
+  xy: 300, 116
+  size: 33, 95
+  orig: 33, 95
+  offset: 0, 0
+  index: -1
+canhtay up-R
+  rotate: false
+  xy: 254, 67
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+cuoi
+  rotate: false
+  xy: 300, 95
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+labai chia
+  rotate: true
+  xy: 397, 117
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+nguoi
+  rotate: false
+  xy: 2, 52
+  size: 138, 189
+  orig: 138, 189
+  offset: 0, 0
+  index: -1
+nhammat
+  rotate: true
+  xy: 111, 9
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+nhay mat
+  rotate: false
+  xy: 300, 74
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+tay cam
+  rotate: true
+  xy: 142, 63
+  size: 85, 110
+  orig: 85, 110
+  offset: 0, 0
+  index: -1
+tay chia
+  rotate: false
+  xy: 417, 191
+  size: 85, 50
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+tay moi
+  rotate: true
+  xy: 2, 2
+  size: 48, 107
+  orig: 48, 107
+  offset: 0, 0
+  index: -1
+tay up-R
+  rotate: false
+  xy: 417, 158
+  size: 91, 31
+  orig: 91, 31
+  offset: 0, 0
+  index: -1
+tayup-L
+  rotate: true
+  xy: 317, 151
+  size: 90, 98
+  orig: 90, 98
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+xoc dia.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bat
+  rotate: false
+  xy: 198, 25
+  size: 170, 171
+  orig: 170, 171
+  offset: 0, 0
+  index: -1
+bat dia
+  rotate: false
+  xy: 2, 2
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+bat dia copy
+  rotate: false
+  xy: 1284, 575
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+demo-xoc-dia
+  rotate: false
+  xy: 2, 198
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+dia
+  rotate: false
+  xy: 1284, 730
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
