@@ -1,0 +1,20 @@
+
+vien sang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef
+  rotate: false
+  xy: 2, 179
+  size: 286, 319
+  orig: 286, 319
+  offset: 0, 0
+  index: -1
+vien sang
+  rotate: true
+  xy: 2, 2
+  size: 175, 219
+  orig: 175, 219
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,54 @@
+bom.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 516, 309
+  size: 165, 160
+  orig: 165, 160
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 838, 358
+  size: 101, 111
+  orig: 101, 111
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 2
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+pow
+  rotate: false
+  xy: 2, 33
+  size: 268, 210
+  orig: 268, 210
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 683, 323
+  size: 153, 146
+  orig: 153, 146
+  offset: 0, 0
+  index: -1
+smoke2
+  rotate: false
+  xy: 302, 279
+  size: 212, 190
+  orig: 212, 190
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 245
+  size: 298, 224
+  orig: 298, 224
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+bet time.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bet time
+  rotate: false
+  xy: 2, 2
+  size: 305, 68
+  orig: 305, 68
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 2, 72
+  size: 700, 162
+  orig: 700, 162
+  offset: 0, 0
+  index: -1

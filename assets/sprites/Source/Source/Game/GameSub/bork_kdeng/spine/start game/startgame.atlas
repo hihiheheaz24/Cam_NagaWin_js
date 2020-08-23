@@ -1,0 +1,97 @@
+
+startgame.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef
+  rotate: false
+  xy: 2, 2
+  size: 356, 328
+  orig: 356, 328
+  offset: 0, 0
+  index: -1
+ef copy
+  rotate: false
+  xy: 360, 2
+  size: 351, 328
+  orig: 351, 328
+  offset: 0, 0
+  index: -1
+labai
+  rotate: true
+  xy: 713, 197
+  size: 140, 136
+  orig: 140, 136
+  offset: 0, 0
+  index: -1
+labai2
+  rotate: true
+  xy: 1053, 363
+  size: 131, 138
+  orig: 131, 138
+  offset: 0, 0
+  index: -1
+labai3
+  rotate: true
+  xy: 1332, 372
+  size: 122, 135
+  orig: 122, 135
+  offset: 0, 0
+  index: -1
+labai4
+  rotate: true
+  xy: 1603, 386
+  size: 108, 130
+  orig: 108, 130
+  offset: 0, 0
+  index: -1
+labai5
+  rotate: true
+  xy: 704, 339
+  size: 90, 119
+  orig: 90, 119
+  offset: 0, 0
+  index: -1
+labai6
+  rotate: true
+  xy: 1735, 393
+  size: 101, 124
+  orig: 101, 124
+  offset: 0, 0
+  index: -1
+labai7
+  rotate: true
+  xy: 1469, 379
+  size: 115, 132
+  orig: 115, 132
+  offset: 0, 0
+  index: -1
+labai8
+  rotate: true
+  xy: 1193, 367
+  size: 127, 137
+  orig: 127, 137
+  offset: 0, 0
+  index: -1
+labai9
+  rotate: false
+  xy: 713, 56
+  size: 135, 139
+  orig: 135, 139
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 2, 332
+  size: 700, 162
+  orig: 700, 162
+  offset: 0, 0
+  index: -1
+start game
+  rotate: false
+  xy: 704, 431
+  size: 347, 63
+  orig: 347, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+slap.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ready
+  rotate: true
+  xy: 2, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+sang
+  rotate: true
+  xy: 43, 25
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+tron
+  rotate: false
+  xy: 2, 23
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+wait
+  rotate: false
+  xy: 22, 12
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

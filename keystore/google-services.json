@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "462599534398",
+    "firebase_url": "https://ngwclub.firebaseio.com",
+    "project_id": "ngwclub",
+    "storage_bucket": "ngwclub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462599534398:android:c12f8de9c68c614ca41e6f",
+        "android_client_info": {
+          "package_name": "cyt.kh.naga.club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462599534398-1oqbfejres324ngp2gguf4a0rs3p61im.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cyt.kh.naga.club",
+            "certificate_hash": "9e73c5aa2699b79abe816d737e8025bb421a310e"
+          }
+        },
+        {
+          "client_id": "462599534398-1aqmq0gqq3e3nm47o14pl3g67m28h8ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKbcaEkG5n4D3rrpMylKSskU4a1W9pwNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462599534398-1aqmq0gqq3e3nm47o14pl3g67m28h8ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

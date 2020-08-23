@@ -1,0 +1,146 @@
+
+beer.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong nuoc
+  rotate: false
+  xy: 316, 53
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+bong nuoc copy
+  rotate: false
+  xy: 151, 7
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+bong nuoc2
+  rotate: false
+  xy: 138, 5
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+bong nuoc2 copy
+  rotate: false
+  xy: 216, 20
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+bong nuoc3
+  rotate: false
+  xy: 327, 54
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+bong nuoc3 copy
+  rotate: false
+  xy: 162, 8
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+bong nuoc4
+  rotate: false
+  xy: 172, 10
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+bong nuoc4 copy
+  rotate: false
+  xy: 172, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+bot phong
+  rotate: false
+  xy: 216, 33
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+bot phong copy
+  rotate: false
+  xy: 266, 34
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+bot roi
+  rotate: true
+  xy: 243, 26
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+bot roi copy
+  rotate: false
+  xy: 337, 55
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+coc
+  rotate: true
+  xy: 2, 4
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+coc copy
+  rotate: true
+  xy: 70, 4
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+hat bot
+  rotate: true
+  xy: 252, 26
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+hat bot copy
+  rotate: false
+  xy: 344, 56
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+hat bot2
+  rotate: true
+  xy: 229, 25
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+hat bot2 copy
+  rotate: false
+  xy: 316, 39
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+toe bot
+  rotate: false
+  xy: 138, 18
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+toe bot copy
+  rotate: false
+  xy: 177, 18
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1

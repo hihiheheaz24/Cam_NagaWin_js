@@ -1,0 +1,467 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Free Spin
+  rotate: false
+  xy: 2, 23
+  size: 229, 43
+  orig: 229, 43
+  offset: 0, 0
+  index: -1
+Free Spin2
+  rotate: false
+  xy: 664, 17
+  size: 229, 43
+  orig: 229, 43
+  offset: 0, 0
+  index: -1
+btn_stop
+  rotate: false
+  xy: 2, 926
+  size: 342, 88
+  orig: 342, 88
+  offset: 0, 0
+  index: -1
+button1/button1_00000
+  rotate: false
+  xy: 2, 848
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00001
+  rotate: false
+  xy: 346, 938
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00002
+  rotate: false
+  xy: 2, 770
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00003
+  rotate: false
+  xy: 638, 938
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00004
+  rotate: false
+  xy: 2, 692
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00005
+  rotate: false
+  xy: 2, 614
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00006
+  rotate: false
+  xy: 2, 536
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00007
+  rotate: false
+  xy: 2, 458
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00008
+  rotate: false
+  xy: 2, 380
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00009
+  rotate: false
+  xy: 2, 302
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00010
+  rotate: false
+  xy: 2, 224
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00011
+  rotate: false
+  xy: 2, 146
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00012
+  rotate: false
+  xy: 2, 68
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00013
+  rotate: true
+  xy: 294, 634
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00014
+  rotate: true
+  xy: 294, 342
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00015
+  rotate: false
+  xy: 372, 860
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00016
+  rotate: false
+  xy: 372, 782
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00017
+  rotate: false
+  xy: 372, 704
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00018
+  rotate: false
+  xy: 372, 626
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00019
+  rotate: true
+  xy: 664, 646
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00020
+  rotate: false
+  xy: 372, 548
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00021
+  rotate: true
+  xy: 742, 646
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00022
+  rotate: false
+  xy: 372, 470
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00023
+  rotate: true
+  xy: 820, 646
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00024
+  rotate: false
+  xy: 372, 392
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00025
+  rotate: true
+  xy: 294, 50
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00026
+  rotate: false
+  xy: 372, 314
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00027
+  rotate: true
+  xy: 664, 354
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00028
+  rotate: false
+  xy: 372, 236
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button1/button1_00029
+  rotate: true
+  xy: 742, 354
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00000
+  rotate: false
+  xy: 372, 158
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00001
+  rotate: true
+  xy: 820, 354
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00002
+  rotate: false
+  xy: 372, 80
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00003
+  rotate: true
+  xy: 664, 62
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00004
+  rotate: true
+  xy: 742, 62
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00005
+  rotate: true
+  xy: 820, 62
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00006
+  rotate: false
+  xy: 372, 2
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00007
+  rotate: true
+  xy: 898, 646
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00008
+  rotate: true
+  xy: 898, 354
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00009
+  rotate: true
+  xy: 898, 62
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button3/button3_00010
+  rotate: false
+  xy: 2, 548
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00011
+  rotate: false
+  xy: 2, 470
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00012
+  rotate: false
+  xy: 294, 548
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00013
+  rotate: false
+  xy: 2, 392
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00014
+  rotate: false
+  xy: 294, 470
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00015
+  rotate: false
+  xy: 586, 548
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00016
+  rotate: false
+  xy: 2, 314
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00017
+  rotate: false
+  xy: 294, 392
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00018
+  rotate: false
+  xy: 586, 470
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00019
+  rotate: false
+  xy: 2, 236
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00020
+  rotate: false
+  xy: 294, 314
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00021
+  rotate: false
+  xy: 586, 392
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00022
+  rotate: false
+  xy: 2, 158
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00023
+  rotate: false
+  xy: 294, 236
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00024
+  rotate: false
+  xy: 586, 314
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00025
+  rotate: true
+  xy: 878, 334
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00026
+  rotate: false
+  xy: 2, 80
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00027
+  rotate: false
+  xy: 294, 158
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00028
+  rotate: false
+  xy: 586, 236
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+button3/button3_00029
+  rotate: false
+  xy: 2, 2
+  size: 290, 76
+  orig: 290, 76
+  offset: 0, 0
+  index: -1
+spin
+  rotate: true
+  xy: 956, 451
+  size: 173, 62
+  orig: 173, 62
+  offset: 0, 0
+  index: -1
+spin2
+  rotate: false
+  xy: 294, 94
+  size: 173, 62
+  orig: 173, 62
+  offset: 0, 0
+  index: -1

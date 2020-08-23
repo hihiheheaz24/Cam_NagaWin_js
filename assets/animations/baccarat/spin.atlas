@@ -1,0 +1,285 @@
+
+spin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FREE SPIN
+  rotate: false
+  xy: 615, 965
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+FREE SPIN_00000
+  rotate: false
+  xy: 615, 906
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+FREE SPIN_00001
+  rotate: false
+  xy: 615, 847
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+FREE SPIN_00002
+  rotate: false
+  xy: 615, 788
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+FREE SPIN_00003
+  rotate: false
+  xy: 615, 729
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+FREE SPIN_00004
+  rotate: false
+  xy: 615, 670
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+FREE SPIN_00005
+  rotate: false
+  xy: 615, 611
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+FREE SPIN_00006
+  rotate: false
+  xy: 615, 552
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+FREE SPIN_00007
+  rotate: false
+  xy: 615, 493
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+FREE SPIN_00008
+  rotate: false
+  xy: 615, 434
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+FREE SPIN_00009
+  rotate: true
+  xy: 146, 40
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+FREE SPIN_00010
+  rotate: false
+  xy: 205, 402
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+FREE SPIN_00011
+  rotate: true
+  xy: 205, 8
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+FREE SPIN_00012
+  rotate: true
+  xy: 264, 8
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+FREE SPIN_00013
+  rotate: true
+  xy: 323, 8
+  size: 392, 57
+  orig: 392, 57
+  offset: 0, 0
+  index: -1
+GLOW2
+  rotate: false
+  xy: 2, 461
+  size: 611, 561
+  orig: 611, 561
+  offset: 0, 0
+  index: -1
+Player winS
+  rotate: true
+  xy: 382, 43
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+Player winS_00000
+  rotate: true
+  xy: 441, 43
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+TIE
+  rotate: false
+  xy: 859, 109
+  size: 115, 81
+  orig: 115, 81
+  offset: 0, 0
+  index: -1
+TIE2
+  rotate: false
+  xy: 859, 26
+  size: 115, 81
+  orig: 115, 81
+  offset: 0, 0
+  index: -1
+frame
+  rotate: true
+  xy: 2, 12
+  size: 447, 142
+  orig: 447, 142
+  offset: 0, 0
+  index: -1
+frame1
+  rotate: true
+  xy: 500, 2
+  size: 188, 120
+  orig: 188, 120
+  offset: 0, 0
+  index: -1
+frame_LIGHT
+  rotate: false
+  xy: 500, 192
+  size: 508, 208
+  orig: 508, 208
+  offset: 0, 0
+  index: -1
+frame_LIGHT3
+  rotate: false
+  xy: 622, 6
+  size: 235, 184
+  orig: 235, 184
+  offset: 0, 0
+  index: -1
+
+spin2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Player winS_00001
+  rotate: false
+  xy: 212, 213
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+Player winS_00002
+  rotate: false
+  xy: 396, 453
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+Player winS_00003
+  rotate: false
+  xy: 396, 394
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+Player winS_00004
+  rotate: false
+  xy: 396, 335
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+Player winS_00005
+  rotate: false
+  xy: 396, 276
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+Player winS_00006
+  rotate: false
+  xy: 571, 217
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+Player winS_00007
+  rotate: true
+  xy: 930, 153
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+Player winS_00008
+  rotate: false
+  xy: 571, 158
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+Player winS_00009
+  rotate: false
+  xy: 212, 154
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+Player winS_00010
+  rotate: false
+  xy: 571, 99
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+Player winS_00011
+  rotate: false
+  xy: 212, 95
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+Player winS_00012
+  rotate: false
+  xy: 571, 40
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+Player winS_00013
+  rotate: false
+  xy: 212, 36
+  size: 357, 57
+  orig: 357, 57
+  offset: 0, 0
+  index: -1
+frame_LIGHT2
+  rotate: true
+  xy: 2, 2
+  size: 508, 208
+  orig: 508, 208
+  offset: 0, 0
+  index: -1
+frame_LIGHT4
+  rotate: true
+  xy: 212, 272
+  size: 238, 182
+  orig: 238, 182
+  offset: 0, 0
+  index: -1

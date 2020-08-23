@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BET_MYR
+  rotate: false
+  xy: 2, 149
+  size: 162, 72
+  orig: 162, 72
+  offset: 0, 0
+  index: -1
+Layer 116
+  rotate: false
+  xy: 2, 67
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+Layer 117
+  rotate: false
+  xy: 2, 659
+  size: 479, 301
+  orig: 479, 301
+  offset: 0, 0
+  index: -1
+OPEN
+  rotate: true
+  xy: 952, 796
+  size: 164, 51
+  orig: 164, 51
+  offset: 0, 0
+  index: -1
+OPEN_MYR
+  rotate: false
+  xy: 2, 2
+  size: 94, 63
+  orig: 94, 63
+  offset: 0, 0
+  index: -1
+START GAME
+  rotate: false
+  xy: 2, 223
+  size: 364, 58
+  orig: 364, 58
+  offset: 0, 0
+  index: -1
+START_MYR
+  rotate: false
+  xy: 166, 156
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 483, 719
+  size: 467, 241
+  orig: 467, 241
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 2, 406
+  size: 459, 251
+  orig: 459, 251
+  offset: 0, 0
+  index: -1
+start_cam
+  rotate: false
+  xy: 483, 666
+  size: 117, 51
+  orig: 117, 51
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 283
+  size: 555, 121
+  orig: 555, 121
+  offset: 0, 0
+  index: -1

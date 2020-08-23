@@ -1,0 +1,20 @@
+
+anim_xucxac.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bowl
+  rotate: true
+  xy: 2, 2
+  size: 250, 257
+  orig: 250, 257
+  offset: 0, 0
+  index: -1
+plate
+  rotate: false
+  xy: 2, 254
+  size: 374, 254
+  orig: 374, 254
+  offset: 0, 0
+  index: -1

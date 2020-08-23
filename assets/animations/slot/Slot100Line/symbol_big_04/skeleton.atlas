@@ -1,0 +1,265 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LIGHT
+  rotate: false
+  xy: 972, 921
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+cay
+  rotate: false
+  xy: 266, 343
+  size: 108, 89
+  orig: 108, 89
+  offset: 0, 0
+  index: -1
+eye1/eye1_00000
+  rotate: false
+  xy: 2, 812
+  size: 176, 150
+  orig: 176, 150
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 667
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00000
+  rotate: false
+  xy: 180, 831
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00001
+  rotate: false
+  xy: 2, 534
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00002
+  rotate: false
+  xy: 312, 831
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00003
+  rotate: false
+  xy: 2, 401
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00004
+  rotate: false
+  xy: 444, 831
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00005
+  rotate: false
+  xy: 2, 268
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00006
+  rotate: false
+  xy: 576, 831
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00007
+  rotate: false
+  xy: 2, 135
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00008
+  rotate: false
+  xy: 708, 831
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00009
+  rotate: false
+  xy: 2, 2
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00010
+  rotate: false
+  xy: 840, 831
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00011
+  rotate: false
+  xy: 146, 679
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00012
+  rotate: false
+  xy: 278, 698
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00013
+  rotate: false
+  xy: 410, 698
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00014
+  rotate: false
+  xy: 542, 698
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00015
+  rotate: false
+  xy: 674, 698
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00016
+  rotate: false
+  xy: 806, 698
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00017
+  rotate: true
+  xy: 278, 566
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00018
+  rotate: true
+  xy: 411, 566
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00019
+  rotate: true
+  xy: 544, 566
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00020
+  rotate: true
+  xy: 677, 566
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00021
+  rotate: false
+  xy: 810, 565
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00022
+  rotate: false
+  xy: 146, 546
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00023
+  rotate: false
+  xy: 134, 413
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00024
+  rotate: false
+  xy: 134, 280
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00025
+  rotate: false
+  xy: 134, 147
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00026
+  rotate: false
+  xy: 134, 14
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00027
+  rotate: true
+  xy: 278, 434
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00028
+  rotate: true
+  xy: 411, 434
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00029
+  rotate: true
+  xy: 544, 434
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00030
+  rotate: true
+  xy: 677, 434
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+khung1/khung_00031
+  rotate: false
+  xy: 810, 432
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+nho
+  rotate: false
+  xy: 266, 259
+  size: 101, 82
+  orig: 101, 82
+  offset: 0, 0
+  index: -1

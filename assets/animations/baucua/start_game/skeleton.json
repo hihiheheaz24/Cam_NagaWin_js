@@ -1,0 +1,196 @@
+{
+"skeleton": { "hash": "YpUJnVZuUDRQKwPwQs+Laoqet9w", "spine": "3.6.53", "width": 700, "height": 268.88, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" },
+	{
+		"name": "1d9180af96e6510fe2b87eabcb001ac9177cbc63101d9-vqZoBS_fw658",
+		"parent": "bone",
+		"length": 77.29,
+		"rotation": -0.49,
+		"x": 2.27,
+		"y": 25.72
+	},
+	{ "name": "bau", "parent": "bone", "length": 36.77, "rotation": 85.91, "x": -67.81, "y": 82.05 },
+	{ "name": "bau copy", "parent": "bau", "length": 38.01, "rotation": -87.89, "x": -0.61, "y": -0.7 },
+	{ "name": "ca copy", "parent": "bone", "length": 45.2, "rotation": 89.17, "x": 57.95, "y": 80.08 },
+	{ "name": "ca", "parent": "ca copy", "length": 34.07, "rotation": -88.07, "x": -0.65, "y": -0.01 },
+	{ "name": "start game copy", "parent": "bone", "length": 79.98, "rotation": -177.65, "x": -0.35, "y": 25.06 },
+	{ "name": "voi", "parent": "bone", "length": 41.27, "rotation": 89.09, "x": -2.31, "y": 104.32 },
+	{ "name": "voi copy", "parent": "voi", "length": 35.47, "rotation": -84.85, "x": 10.46, "y": 1.48 }
+],
+"slots": [
+	{ "name": "voi2", "bone": "root" },
+	{ "name": "voi", "bone": "voi", "attachment": "voi" },
+	{ "name": "voi copy", "bone": "voi copy", "attachment": "voi copy" },
+	{ "name": "bau copy", "bone": "bau copy", "attachment": "bau copy" },
+	{ "name": "bau", "bone": "bau", "attachment": "bau" },
+	{ "name": "ca copy", "bone": "ca copy", "attachment": "ca copy" },
+	{ "name": "ca", "bone": "ca", "attachment": "ca" },
+	{
+		"name": "1d9180af96e6510fe2b87eabcb001ac9177cbc63101d9-vqZoBS_fw658",
+		"bone": "1d9180af96e6510fe2b87eabcb001ac9177cbc63101d9-vqZoBS_fw658",
+		"attachment": "1d9180af96e6510fe2b87eabcb001ac9177cbc63101d9-vqZoBS_fw658"
+	},
+	{ "name": "start game copy", "bone": "start game copy", "attachment": "start game copy" }
+],
+"skins": {
+	"default": {
+		"1d9180af96e6510fe2b87eabcb001ac9177cbc63101d9-vqZoBS_fw658": {
+			"1d9180af96e6510fe2b87eabcb001ac9177cbc63101d9-vqZoBS_fw658": { "x": -2.06, "y": -25.74, "rotation": 0.49, "width": 700, "height": 162 }
+		},
+		"bau": {
+			"bau": { "x": -1.73, "y": -3.41, "rotation": -85.91, "width": 102, "height": 105 }
+		},
+		"bau copy": {
+			"bau copy": { "x": 3.97, "y": -1.17, "rotation": 1.97, "width": 135, "height": 137 }
+		},
+		"ca": {
+			"ca": { "x": 1.93, "y": -2, "rotation": -1.1, "width": 103, "height": 105 }
+		},
+		"ca copy": {
+			"ca copy": { "x": -1.93, "y": -2.65, "rotation": -89.17, "width": 136, "height": 137 }
+		},
+		"start game copy": {
+			"start game copy": { "x": -1.42, "y": -1.88, "rotation": 177.65, "width": 347, "height": 63 }
+		},
+		"voi": {
+			"voi": { "x": 2.72, "y": -2.27, "rotation": -89.09, "width": 103, "height": 105 }
+		},
+		"voi copy": {
+			"voi copy": { "x": 1.65, "y": 4.48, "rotation": -4.24, "width": 136, "height": 137 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"bau": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.3, "color": "ffffffff" }
+				]
+			},
+			"bau copy": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4, "name": "bau copy" },
+					{ "time": 0.5, "name": null },
+					{ "time": 0.6, "name": "bau copy" },
+					{ "time": 0.7, "name": null },
+					{ "time": 0.8, "name": "bau copy" },
+					{ "time": 0.9, "name": null },
+					{ "time": 1, "name": "bau copy" },
+					{ "time": 1.1, "name": null },
+					{ "time": 1.2, "name": "bau copy" },
+					{ "time": 1.3, "name": null },
+					{ "time": 1.4, "name": "bau copy" },
+					{ "time": 1.5, "name": null }
+				]
+			},
+			"ca": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.2333, "color": "ffffff00" },
+					{ "time": 0.3667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0.2333, "name": "ca" },
+					{ "time": 0.5, "name": "ca" },
+					{ "time": 0.7, "name": "ca" }
+				]
+			},
+			"ca copy": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.4, "name": "ca copy" },
+					{ "time": 0.5, "name": null },
+					{ "time": 0.6, "name": "ca copy" },
+					{ "time": 0.7, "name": null },
+					{ "time": 0.8, "name": "ca copy" },
+					{ "time": 0.9, "name": null },
+					{ "time": 1, "name": "ca copy" },
+					{ "time": 1.1, "name": null },
+					{ "time": 1.2, "name": "ca copy" },
+					{ "time": 1.3, "name": null },
+					{ "time": 1.4, "name": "ca copy" },
+					{ "time": 1.5, "name": null }
+				]
+			},
+			"voi": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1, "color": "ffffff00" },
+					{ "time": 0.2333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0.5, "name": "voi" }
+				]
+			},
+			"voi copy": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": null },
+					{ "time": 0.4, "name": "voi copy" },
+					{ "time": 0.5, "name": null },
+					{ "time": 0.6, "name": "voi copy" },
+					{ "time": 0.7, "name": null },
+					{ "time": 0.8, "name": "voi copy" },
+					{ "time": 0.9, "name": null },
+					{ "time": 1, "name": "voi copy" },
+					{ "time": 1.1, "name": null },
+					{ "time": 1.2, "name": "voi copy" },
+					{ "time": 1.3, "name": null },
+					{ "time": 1.4, "name": "voi copy" },
+					{ "time": 1.5, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"1d9180af96e6510fe2b87eabcb001ac9177cbc63101d9-vqZoBS_fw658": {
+				"scale": [
+					{ "time": 0, "x": 1.325, "y": 1.325 },
+					{ "time": 0.1667, "x": 1, "y": 1 },
+					{ "time": 0.2667, "x": 1.091, "y": 1.091 },
+					{ "time": 0.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.5, "x": 1, "y": 1 }
+				]
+			},
+			"start game copy": {
+				"scale": [
+					{ "time": 0.1667, "x": 1.356, "y": 1.356 },
+					{ "time": 0.2667, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 1.145, "y": 1.145 },
+					{ "time": 0.4, "x": 1, "y": 1 }
+				]
+			},
+			"voi": {
+				"translate": [
+					{ "time": 0.1, "x": 0, "y": 264.89 },
+					{ "time": 0.2333, "x": 0, "y": 13.52 }
+				]
+			},
+			"voi copy": {
+				"translate": [
+					{ "time": 0.1, "x": -10.81, "y": -0.17 },
+					{ "time": 0.2333, "x": -9.91, "y": -0.16 }
+				]
+			},
+			"bau": {
+				"translate": [
+					{ "time": 0.1667, "x": 0, "y": 300.31 },
+					{ "time": 0.3, "x": 0, "y": 0 }
+				]
+			},
+			"ca copy": {
+				"translate": [
+					{ "time": 0.2333, "x": 0, "y": 285.86 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

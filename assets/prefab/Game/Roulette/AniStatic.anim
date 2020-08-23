@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "AniStatic",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.15,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 151.4
+        },
+        {
+          "frame": 0.13333333333333333,
+          "value": 162
+        },
+        {
+          "frame": 0.36666666666666664,
+          "value": 138
+        },
+        {
+          "frame": 0.75,
+          "value": 156
+        },
+        {
+          "frame": 1.15,
+          "value": 148
+        }
+      ]
+    }
+  },
+  "events": []
+}

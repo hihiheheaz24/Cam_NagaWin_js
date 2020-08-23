@@ -1,0 +1,11 @@
+{
+  "ver": "1.2.0",
+  "uuid": "3fd3e460-b71b-4f9d-862c-059ff23b7109",
+  "textures": [
+    "cd5ba75b-048c-4677-9422-e1eabe03a0c3",
+    "0c0b9944-f103-4b51-836c-a9ba0e21c483"
+  ],
+  "atlas": "ef75419f-51ed-420a-bc33-cea69c904b9f",
+  "scale": 1,
+  "subMetas": {}
+}

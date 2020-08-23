@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "bc34d19f-dc0d-45e8-8eb0-e7256f173e82",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "cuoc me": {
+      "ver": "1.0.3",
+      "uuid": "f45e07b2-827a-4486-9d38-a2264cd7603e",
+      "rawTextureUuid": "bc34d19f-dc0d-45e8-8eb0-e7256f173e82",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 58,
+      "height": 23,
+      "rawWidth": 58,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

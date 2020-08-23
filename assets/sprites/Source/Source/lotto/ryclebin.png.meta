@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "98c16e0b-9161-46f9-8ade-1f4b1e7b7501",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ryclebin": {
+      "ver": "1.0.3",
+      "uuid": "b93fa90d-b120-4773-8c39-ec272ddcbdb8",
+      "rawTextureUuid": "98c16e0b-9161-46f9-8ade-1f4b1e7b7501",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 42,
+      "height": 39,
+      "rawWidth": 42,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

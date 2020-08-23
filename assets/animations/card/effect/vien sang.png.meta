@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "38637eae-c3d8-4099-bb0c-25b27d5ea1c6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "vien sang": {
+      "ver": "1.0.3",
+      "uuid": "30241a5c-3651-486c-a536-c0e747e323f4",
+      "rawTextureUuid": "38637eae-c3d8-4099-bb0c-25b27d5ea1c6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -113,
+      "offsetY": 11,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 278,
+      "height": 482,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

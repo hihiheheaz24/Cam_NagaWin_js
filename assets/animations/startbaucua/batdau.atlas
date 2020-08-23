@@ -1,0 +1,90 @@
+
+batdau.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgr
+  rotate: false
+  xy: 2, 345
+  size: 470, 165
+  orig: 470, 165
+  offset: 0, 0
+  index: -1
+big_star
+  rotate: false
+  xy: 898, 465
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+highlight01
+  rotate: false
+  xy: 532, 205
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+highlight02
+  rotate: false
+  xy: 201, 144
+  size: 183, 199
+  orig: 183, 199
+  offset: 0, 0
+  index: -1
+highlight03
+  rotate: false
+  xy: 2, 133
+  size: 197, 210
+  orig: 197, 210
+  offset: 0, 0
+  index: -1
+highlight04
+  rotate: true
+  xy: 474, 358
+  size: 152, 179
+  orig: 152, 179
+  offset: 0, 0
+  index: -1
+highlight05
+  rotate: false
+  xy: 386, 182
+  size: 144, 161
+  orig: 144, 161
+  offset: 0, 0
+  index: -1
+highlight06
+  rotate: false
+  xy: 2, 2
+  size: 123, 129
+  orig: 123, 129
+  offset: 0, 0
+  index: -1
+small_1
+  rotate: false
+  xy: 386, 150
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+small_2
+  rotate: false
+  xy: 655, 413
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 655, 445
+  size: 241, 65
+  orig: 241, 65
+  offset: 0, 0
+  index: -1
+xi_ngau
+  rotate: true
+  xy: 127, 6
+  size: 125, 101
+  orig: 125, 101
+  offset: 0, 0
+  index: -1

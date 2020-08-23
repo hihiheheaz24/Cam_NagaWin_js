@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="SplashStyle"
+      parent="@android:style/Theme.NoTitleBar.Fullscreen" >
+
+    <!--自定义主题背景为我们刚刚创建的颜色-->
+    <item name="android:windowBackground" >@drawable/bg_screen_loading1</item >
+
+    <!--令主题无标题-->
+    <item name="android:windowNoTitle" >true</item >
+  </style >
+  <style name="MyAppTheme" parent="Theme.AppCompat">
+    <item name="android:windowBackground">@drawable/splash_logo</item>
+  </style>
+
+</resources>

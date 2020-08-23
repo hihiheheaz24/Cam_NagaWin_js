@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "44689872-03d5-4bed-bd45-5d4c6668620e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "MiniCardPlis": {
+      "ver": "1.0.3",
+      "uuid": "ad586783-a421-4575-a88d-413f03f4bdf5",
+      "rawTextureUuid": "44689872-03d5-4bed-bd45-5d4c6668620e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -17.5,
+      "offsetY": 3.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 221,
+      "height": 249,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

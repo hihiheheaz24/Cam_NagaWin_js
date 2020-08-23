@@ -1,0 +1,397 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big2/big2_00023
+  rotate: false
+  xy: 822, 14
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+vien/vien_00000
+  rotate: false
+  xy: 2, 822
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00001
+  rotate: false
+  xy: 2, 658
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00002
+  rotate: false
+  xy: 207, 822
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00003
+  rotate: false
+  xy: 2, 494
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00004
+  rotate: false
+  xy: 207, 658
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00005
+  rotate: false
+  xy: 412, 822
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00006
+  rotate: false
+  xy: 2, 330
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00007
+  rotate: false
+  xy: 207, 494
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00008
+  rotate: false
+  xy: 412, 658
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00009
+  rotate: false
+  xy: 617, 822
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00010
+  rotate: false
+  xy: 2, 166
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00011
+  rotate: false
+  xy: 207, 330
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00012
+  rotate: false
+  xy: 412, 494
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00013
+  rotate: false
+  xy: 617, 658
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00014
+  rotate: true
+  xy: 822, 781
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00015
+  rotate: false
+  xy: 2, 2
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00016
+  rotate: false
+  xy: 207, 166
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00017
+  rotate: false
+  xy: 412, 330
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00018
+  rotate: false
+  xy: 617, 494
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00019
+  rotate: true
+  xy: 822, 576
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00020
+  rotate: false
+  xy: 207, 2
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00021
+  rotate: false
+  xy: 412, 166
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00022
+  rotate: false
+  xy: 617, 330
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00023
+  rotate: true
+  xy: 822, 371
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00024
+  rotate: false
+  xy: 412, 2
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00025
+  rotate: false
+  xy: 617, 166
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00026
+  rotate: true
+  xy: 822, 166
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00027
+  rotate: false
+  xy: 617, 2
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big2/big2_00000
+  rotate: false
+  xy: 207, 789
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00001
+  rotate: false
+  xy: 2, 461
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00002
+  rotate: false
+  xy: 207, 637
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00003
+  rotate: false
+  xy: 360, 789
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00004
+  rotate: false
+  xy: 2, 309
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00005
+  rotate: false
+  xy: 360, 637
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00006
+  rotate: false
+  xy: 513, 789
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00007
+  rotate: false
+  xy: 2, 157
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00008
+  rotate: false
+  xy: 513, 637
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00009
+  rotate: false
+  xy: 666, 789
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00010
+  rotate: false
+  xy: 2, 5
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00011
+  rotate: false
+  xy: 666, 637
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00012
+  rotate: false
+  xy: 819, 789
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00013
+  rotate: false
+  xy: 819, 637
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00014
+  rotate: true
+  xy: 155, 460
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00015
+  rotate: true
+  xy: 155, 307
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00016
+  rotate: true
+  xy: 155, 154
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00017
+  rotate: false
+  xy: 155, 2
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00018
+  rotate: false
+  xy: 307, 485
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00019
+  rotate: false
+  xy: 307, 333
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00020
+  rotate: false
+  xy: 460, 485
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00021
+  rotate: false
+  xy: 307, 181
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00022
+  rotate: false
+  xy: 460, 333
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+big2/big2_00024
+  rotate: false
+  xy: 613, 485
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+vien/vien_00028
+  rotate: false
+  xy: 2, 777
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+vien/vien_00029
+  rotate: false
+  xy: 2, 613
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1

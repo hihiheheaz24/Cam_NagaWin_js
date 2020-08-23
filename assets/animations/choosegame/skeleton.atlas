@@ -1,0 +1,420 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00000
+  rotate: false
+  xy: 2, 147
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00001
+  rotate: false
+  xy: 395, 147
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+card nho
+  rotate: false
+  xy: 2, 2
+  size: 185, 143
+  orig: 185, 143
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00002
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00003
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00004
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00005
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00006
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00007
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00008
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00009
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00010
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00011
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00012
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00013
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00014
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00015
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00016
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00017
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00018
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00019
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00020
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00021
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00022
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00023
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00024
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00025
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00026
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00027
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack_00028
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+blackjack_00029
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton16.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cardd_00005
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+cardd_00006
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton17.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cardd_00007
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+cardd_00008
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton18.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cardd_00009
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+cardd_00010
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton19.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cardd_00011
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+cardd_00012
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton20.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cardd_00013
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+cardd_00014
+  rotate: false
+  xy: 395, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1
+
+skeleton21.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cardd_00015
+  rotate: false
+  xy: 2, 2
+  size: 391, 695
+  orig: 391, 695
+  offset: 0, 0
+  index: -1

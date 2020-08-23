@@ -1,0 +1,153 @@
+
+bomb.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 571, 2
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 598, 143
+  size: 116, 107
+  orig: 116, 107
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 716, 140
+  size: 112, 110
+  orig: 112, 110
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 363, 27
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 128, 35
+  size: 103, 94
+  orig: 103, 94
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: true
+  xy: 476, 39
+  size: 99, 93
+  orig: 99, 93
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 571, 50
+  size: 97, 91
+  orig: 97, 91
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 670, 46
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 767, 53
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 859, 47
+  size: 90, 67
+  orig: 90, 67
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: true
+  xy: 928, 47
+  size: 90, 65
+  orig: 90, 65
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 943, 164
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 233, 35
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 2, 5
+  size: 122, 118
+  orig: 122, 118
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 830, 139
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 128, 131
+  size: 115, 119
+  orig: 115, 119
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 245, 133
+  size: 116, 117
+  orig: 116, 117
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 363, 140
+  size: 115, 110
+  orig: 115, 110
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 480, 143
+  size: 116, 107
+  orig: 116, 107
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 943, 145
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+mat chay
+  rotate: false
+  xy: 2, 125
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1

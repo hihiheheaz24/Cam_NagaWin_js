@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "1655b26e-f3dd-4cc7-8809-5c717c929cf8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "baccarat_table2": {
+      "ver": "1.0.3",
+      "uuid": "33d162d2-eaa8-435a-a47e-8df52eb296c3",
+      "rawTextureUuid": "1655b26e-f3dd-4cc7-8809-5c717c929cf8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

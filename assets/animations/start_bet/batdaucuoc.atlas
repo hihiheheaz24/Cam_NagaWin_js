@@ -1,0 +1,89 @@
+batdaucuoc.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgr
+  rotate: false
+  xy: 2, 349
+  size: 604, 149
+  orig: 604, 149
+  offset: 0, 0
+  index: -1
+big_star
+  rotate: false
+  xy: 940, 453
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+highlight01
+  rotate: false
+  xy: 626, 178
+  size: 138, 128
+  orig: 138, 128
+  offset: 0, 0
+  index: -1
+highlight02
+  rotate: false
+  xy: 2, 2
+  size: 166, 148
+  orig: 166, 148
+  offset: 0, 0
+  index: -1
+highlight03
+  rotate: false
+  xy: 2, 152
+  size: 199, 195
+  orig: 199, 195
+  offset: 0, 0
+  index: -1
+highlight04
+  rotate: true
+  xy: 203, 169
+  size: 178, 216
+  orig: 178, 216
+  offset: 0, 0
+  index: -1
+highlight05
+  rotate: false
+  xy: 421, 168
+  size: 203, 179
+  orig: 203, 179
+  offset: 0, 0
+  index: -1
+highlight06
+  rotate: false
+  xy: 626, 308
+  size: 149, 127
+  orig: 149, 127
+  offset: 0, 0
+  index: -1
+small_1
+  rotate: false
+  xy: 170, 120
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+small_2
+  rotate: false
+  xy: 203, 137
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 608, 437
+  size: 330, 61
+  orig: 330, 61
+  offset: 0, 0
+  index: -1
+xi_ngau
+  rotate: false
+  xy: 777, 336
+  size: 123, 99
+  orig: 123, 99
+  offset: 0, 0
+  index: -1

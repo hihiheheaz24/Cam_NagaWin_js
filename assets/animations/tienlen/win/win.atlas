@@ -1,0 +1,191 @@
+
+win.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jackpot
+  rotate: false
+  xy: 666, 83
+  size: 144, 59
+  orig: 144, 59
+  offset: 0, 0
+  index: -1
+jackpot22
+  rotate: false
+  xy: 501, 562
+  size: 126, 92
+  orig: 126, 92
+  offset: 0, 0
+  index: -1
+radial
+  rotate: false
+  xy: 2, 514
+  size: 497, 472
+  orig: 497, 472
+  offset: 0, 0
+  index: -1
+win_gold_fly_1
+  rotate: true
+  xy: 2, 2
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_2
+  rotate: false
+  xy: 501, 656
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_3
+  rotate: true
+  xy: 334, 2
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_4
+  rotate: true
+  xy: 666, 144
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+
+win2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win_gold_fly_5
+  rotate: false
+  xy: 2, 666
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_6
+  rotate: false
+  xy: 2, 334
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_7
+  rotate: true
+  xy: 514, 486
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_8
+  rotate: false
+  xy: 2, 2
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+
+win3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win_gold_fly_10
+  rotate: false
+  xy: 2, 334
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_11
+  rotate: true
+  xy: 514, 486
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_12
+  rotate: false
+  xy: 2, 2
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_9
+  rotate: false
+  xy: 2, 666
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+
+win4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win_gold_fly_13
+  rotate: false
+  xy: 2, 666
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_14
+  rotate: false
+  xy: 2, 334
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_15
+  rotate: true
+  xy: 514, 486
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_16
+  rotate: false
+  xy: 2, 2
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+
+win5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win_gold_fly_17
+  rotate: false
+  xy: 2, 666
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_18
+  rotate: false
+  xy: 2, 334
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_19
+  rotate: true
+  xy: 514, 486
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1
+win_gold_fly_20
+  rotate: false
+  xy: 2, 2
+  size: 510, 330
+  orig: 510, 330
+  offset: 0, 0
+  index: -1

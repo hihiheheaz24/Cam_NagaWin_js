@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "5443d0d2-a9c5-4c37-a79c-3ea6445db894",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BaccaratAtlas": {
+      "ver": "1.0.3",
+      "uuid": "dfcfed09-22c4-4a1f-88aa-49433132a612",
+      "rawTextureUuid": "5443d0d2-a9c5-4c37-a79c-3ea6445db894",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -14,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 996,
+      "height": 1022,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

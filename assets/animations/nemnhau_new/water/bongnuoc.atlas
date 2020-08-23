@@ -1,0 +1,34 @@
+
+bongnuoc.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 122, 143
+  orig: 122, 143
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 147, 38
+  size: 129, 86
+  orig: 129, 86
+  offset: 0, 0
+  index: -1
+bong copy
+  rotate: false
+  xy: 278, 71
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 278, 71
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1

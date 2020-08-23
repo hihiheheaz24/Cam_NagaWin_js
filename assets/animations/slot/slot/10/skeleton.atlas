@@ -1,0 +1,251 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 933, 923
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 188, 891
+  size: 163, 89
+  orig: 163, 89
+  offset: 0, 0
+  index: -1
+khung1/khung_00000
+  rotate: false
+  xy: 2, 582
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00001
+  rotate: false
+  xy: 2, 437
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00002
+  rotate: false
+  xy: 2, 292
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00003
+  rotate: false
+  xy: 2, 147
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00004
+  rotate: false
+  xy: 2, 2
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00005
+  rotate: true
+  xy: 353, 838
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00006
+  rotate: true
+  xy: 498, 838
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00007
+  rotate: true
+  xy: 643, 838
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00008
+  rotate: true
+  xy: 788, 838
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00009
+  rotate: false
+  xy: 146, 727
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00010
+  rotate: false
+  xy: 146, 582
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00011
+  rotate: false
+  xy: 146, 437
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00012
+  rotate: false
+  xy: 146, 292
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00013
+  rotate: false
+  xy: 146, 147
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00014
+  rotate: false
+  xy: 146, 2
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00015
+  rotate: false
+  xy: 290, 693
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00016
+  rotate: false
+  xy: 290, 548
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00017
+  rotate: false
+  xy: 434, 693
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00018
+  rotate: false
+  xy: 290, 403
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00019
+  rotate: false
+  xy: 434, 548
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00020
+  rotate: false
+  xy: 578, 693
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00021
+  rotate: false
+  xy: 290, 258
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00022
+  rotate: false
+  xy: 434, 403
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00023
+  rotate: false
+  xy: 578, 548
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00024
+  rotate: false
+  xy: 722, 693
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00025
+  rotate: false
+  xy: 290, 113
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00026
+  rotate: false
+  xy: 434, 258
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00027
+  rotate: false
+  xy: 578, 403
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00028
+  rotate: false
+  xy: 722, 548
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00029
+  rotate: false
+  xy: 434, 113
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00030
+  rotate: false
+  xy: 578, 258
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+khung1/khung_00031
+  rotate: false
+  xy: 2, 727
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+nem
+  rotate: false
+  xy: 2, 872
+  size: 184, 108
+  orig: 184, 108
+  offset: 0, 0
+  index: -1
