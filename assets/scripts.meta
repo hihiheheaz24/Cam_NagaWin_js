@@ -1,7 +1,7 @@
 {
   "ver": "1.0.1",
   "uuid": "0a17289c-caa1-411a-ab8c-d8c7a6166f77",
-  "isSubpackage": true,
+  "isSubpackage": false,
   "subpackageName": "Game",
   "subMetas": {}
 }

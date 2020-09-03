@@ -211,7 +211,6 @@ cc.Class({
         require('SoundManager1').instance.playButton();
         cc.NGWlog('onClickInFo');
         require('NetworkManager').getInstance().sendSearchFriendRequest(this.id);
-        Global.TopListView.fid = this.fid;
     },
 
     updateVip() {

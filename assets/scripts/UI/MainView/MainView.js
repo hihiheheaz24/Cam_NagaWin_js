@@ -31,11 +31,6 @@ cc.Class({
       default: null,
       type: sp.Skeleton
     },
-    safeview_popup: {
-      default: null,
-      type: cc.Prefab
-    },
-
     btn_online: {
       default: null,
       type: cc.Button
@@ -48,8 +43,6 @@ cc.Class({
     btn_sendGift: cc.Button,
     btn_giftCode: cc.Button,
     btn_newsBanner: cc.Node,
-    btn_mission: cc.Button,
-    btn_support: cc.Button,
     btn_xoso : cc.Node,
     // _schedu: null,
     isUpVip: false,
@@ -58,15 +51,6 @@ cc.Class({
     },
     lbInfoChatWorld: cc.Label,
     lbContentChatWorld: cc.Label,
-
-    missionView: {
-      default: null,
-      type: cc.Prefab
-    },
-    nodeSeting: {
-      default: null,
-      type: cc.Node
-    },
     bkgTop: {
       default: null,
       type: cc.Node
@@ -87,7 +71,6 @@ cc.Class({
     _checkMailFirtsTime: true,
     redDotMail: cc.Node,
     redDotFriend: cc.Node,
-    redDotChatWorld: cc.Node,
     isShowReddotMail: false,
   },
 
@@ -235,8 +218,6 @@ cc.Class({
       content = content.substring(0, 18) + "...";
     }
     this.lbContentChatWorld.string = content;
-    // if (Global.ChatWorldView.node.getParent() === null)
-    //   this.redDotChatWorld.active = true;
   },
   updateChipAndSafe() {
     try {
@@ -467,7 +448,6 @@ cc.Class({
   onClickChatWorld() {
     require('SMLSocketIO').getInstance().emitSIOCCC(cc.js.formatStr("ClickShowChatWorld_%s", require('GameManager').getInstance().getCurrentSceneName()));
     UIManager.instance.onShowChatWorld();
-    // this.redDotChatWorld.active = false;
   },
 
   onClickPlaynow() {

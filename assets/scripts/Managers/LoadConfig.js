@@ -477,6 +477,8 @@ var LoadConfig = cc.Class({
                 }
             }
         }
+        cfManager.listGameId = [];
+        cfManager.listGameId = [9009,8802,9008,8808,8813,8803];
 
         if (objData.hasOwnProperty('listTop')) {
             cfManager.listRankGame = [];
@@ -578,6 +580,8 @@ var LoadConfig = cc.Class({
                 cc.log("Cur game Id3333===" + require('GameManager').getInstance().curGameId);
             }
         }
+        cfManager.listGameId = [];
+        cfManager.listGameId = [9009,8044,8802,9008,8808,8813,8803];
 
         if (objData.hasOwnProperty('ismaqt'))
             cfManager.ismaqt = objData.ismaqt

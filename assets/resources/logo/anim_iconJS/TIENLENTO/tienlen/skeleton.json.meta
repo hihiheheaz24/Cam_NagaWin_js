@@ -1,10 +1,16 @@
 {
   "ver": "1.2.0",
-  "uuid": "ae16ebfd-c8f3-406e-aa89-42257b084ca3",
+  "uuid": "3271d01b-c8d1-4cf9-8c72-f0939628c6e5",
   "textures": [
-    "51cc4857-99aa-4a3f-9ef8-b3941ce2ac27"
+    "a9ac0c40-20ca-4ffd-b834-ba9997a181d2",
+    "1b68329e-36ba-457a-86ef-97187417b376",
+    "51240331-5e73-4cd2-8f7d-0bacba3c228f",
+    "096804f4-dff4-4aaf-9d2d-38a3156f0785",
+    "e70aca54-d8c5-4639-ba29-bdf8ed8178ba",
+    "43c5f191-7c01-481d-87a8-41d30b4f4e05",
+    "cb95140f-7584-4fe4-a88b-387e5aca94f6"
   ],
-  "atlas": "5777c4c0-d9f1-4d32-a811-6927feda40eb",
+  "atlas": "7d1720a6-b56e-4631-9dfe-8bc6464ff8bd",
   "scale": 1,
   "subMetas": {}
 }

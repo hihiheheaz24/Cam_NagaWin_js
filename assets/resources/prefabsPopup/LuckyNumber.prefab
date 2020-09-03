@@ -1508,7 +1508,7 @@
     },
     "_enabled": true,
     "_spriteFrame": {
-      "__uuid__": "cb5d2c82-db15-46ef-8089-26b27ad3dfbc"
+      "__uuid__": "b73a4dfa-2eba-46ac-a71d-d540c2c2aa38"
     },
     "_type": 1,
     "_sizeMode": 1,
@@ -1571,9 +1571,7 @@
       "b": 255,
       "a": 255
     },
-    "_N$normalSprite": {
-      "__uuid__": "cb5d2c82-db15-46ef-8089-26b27ad3dfbc"
-    },
+    "_N$normalSprite": null,
     "_N$pressedSprite": {
       "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
     },

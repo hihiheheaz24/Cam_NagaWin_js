@@ -241,17 +241,11 @@ var UIManager = cc.Class({
       cc.loader.loadRes('prefabsPopup/TopGamePopup', (er, prefab) => {
         Global.TopGameView = cc.instantiate(prefab).getComponent('TopGamePopup');
       })
-      cc.loader.loadRes('prefabsPopup/TopListPopup', (er, prefab) => {
-        Global.TopListView = cc.instantiate(prefab).getComponent('TopListPopup');
-      })
       cc.loader.loadRes('prefabsPopup/TopRichPopup', (er, prefab) => {
         Global.TopRichView = cc.instantiate(prefab).getComponent('TopRichPopup');
       })
       cc.loader.loadRes('prefabsPopup/itemHistoryGift', (er, prefab) => {
         Global.ItemHisGift = cc.instantiate(prefab).getComponent('ItemHistoryGift');
-      })
-      cc.loader.loadRes('prefabsPopup/missionPrefab', (er, prefab) => {
-        Global.MissionView = cc.instantiate(prefab).getComponent('missionView');
       })
       cc.loader.loadRes('prefabsPopup/Baner', (er, prefab) => {
         Global.NodeBaner = cc.instantiate(prefab);
@@ -907,9 +901,6 @@ var UIManager = cc.Class({
     let listGameId = require("ConfigManager").getInstance().listGameId;
     if (listGameId.includes(gameId)) {
       require('NetworkManager').getInstance().getTopGameNew(gameId, 0);
-      if (Global.TopListView.node.parent === null)
-        this.instantiate_parent.addChild(Global.TopListView.node);
-      require("GameManager").getInstance().isGettingTopGameId = true;
 
     } else {
       this.onShowTopGame();
@@ -982,10 +973,8 @@ var UIManager = cc.Class({
     if (minutes.length < 2) minutes = "0" + minutes;
     if (seconds.length < 2) seconds = "0" + seconds;
 
-    var time_ = days + (days < 2 ? " day" : " days") + ", " + hours + ":" + minutes + ":" + seconds;
-    if (Global.TopListView.node.getParent() !== null) {
-      Global.TopListView.lbTimerEnd.string = time_;
-    }
+    let time_ = days + ' days ' + hours + ' : ' + minutes + ' : ' + seconds;
+
     if (Global.TopGameView.node.getParent() !== null) {
       Global.TopGameView.lbTimerEnd.string = time_;
     }

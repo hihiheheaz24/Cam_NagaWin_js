@@ -39,18 +39,8 @@ cc.Class({
             cc.director.loadScene("loadRes");
             return;
         }
-
-        setTimeout(() => {
-            cc.loader.downloader.loadSubpackage('Game', function (err) {
-
-                if (err) {
-                    return console.error(err);
-                }
-                cc.NGWlog('load successfully.');
-                cc.director.loadScene("loadRes");
-               require("Util").hideSplash(); 
-            });
-        }, 100)
+        cc.director.loadScene("loadRes");
+        require("Util").hideSplash(); 
         this.node.getChildByName("bg_screen_loading").setContentSize(cc.winSize);
     },
 

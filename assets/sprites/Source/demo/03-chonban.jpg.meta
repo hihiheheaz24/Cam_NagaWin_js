@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "fc41dece-5053-4e05-b601-f1c6731e73da",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "03-chonban": {
+      "ver": "1.0.3",
+      "uuid": "4c7bc6cf-58ec-4cfb-90c5-ba332ed05601",
+      "rawTextureUuid": "fc41dece-5053-4e05-b601-f1c6731e73da",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

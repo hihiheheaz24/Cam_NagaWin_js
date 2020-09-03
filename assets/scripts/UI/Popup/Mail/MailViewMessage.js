@@ -89,9 +89,6 @@ var MailViewMessage = cc.Class({
         if (Global.FriendPopView.node.getParent() !== null && Global.FriendProfilePop.node.getParent() === null) {
             require("GameManager").getInstance().setCurView(CURRENT_VIEW.FRIEND_VIEW);
         }
-        if (Global.TopListView.node.getParent() !== null) {
-            require("GameManager").getInstance().setCurView(CURRENT_VIEW.INFO_FRIEND_VIEW);
-        }
         if (this.lastMessId !== require("GameManager").getInstance().user.id && this.lastMessId !== 0) {
             require('NetworkManager').getInstance().sendReadMessage(this.lastMessId);
         }

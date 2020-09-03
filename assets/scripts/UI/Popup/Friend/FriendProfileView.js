@@ -195,9 +195,6 @@ cc.Class({
         if (Global.FriendPopView.node.getParent() !== null) {
             require("GameManager").getInstance().setCurView(CURRENT_VIEW.FRIEND_VIEW);
         }
-        else if (Global.TopListView.node.getParent() !== null) {
-            require("GameManager").getInstance().setCurView(CURRENT_VIEW.TOP_VIEW);
-        }
         else if (Global.TopRichView.node.getParent() !== null) {
             require("GameManager").getInstance().setCurView(CURRENT_VIEW.TOPRICH_VIEW);
         }

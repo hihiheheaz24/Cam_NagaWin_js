@@ -4,185 +4,121 @@ size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-Layer 108
+2ro
   rotate: false
-  xy: 586, 825
-  size: 41, 33
-  orig: 41, 33
+  xy: 182, 2
+  size: 120, 105
+  orig: 120, 105
   offset: 0, 0
   index: -1
-body
+canhtay
   rotate: false
-  xy: 2, 581
-  size: 204, 440
-  orig: 204, 440
+  xy: 708, 431
+  size: 161, 246
+  orig: 161, 246
   offset: 0, 0
   index: -1
-bong_trai
+dau
   rotate: false
-  xy: 736, 974
-  size: 19, 47
-  orig: 19, 47
+  xy: 2, 403
+  size: 351, 613
+  orig: 351, 613
   offset: 0, 0
   index: -1
-bongphai
+day
   rotate: true
-  xy: 415, 641
-  size: 19, 44
-  orig: 19, 44
+  xy: 871, 463
+  size: 214, 150
+  orig: 214, 150
   offset: 0, 0
   index: -1
-co
+eye_close_L
   rotate: false
-  xy: 208, 723
-  size: 299, 298
-  orig: 299, 298
+  xy: 304, 27
+  size: 53, 38
+  orig: 53, 38
   offset: 0, 0
   index: -1
-crown
+eye_close_R
   rotate: false
-  xy: 415, 662
-  size: 82, 59
-  orig: 82, 59
+  xy: 304, 67
+  size: 105, 40
+  orig: 105, 40
   offset: 0, 0
   index: -1
-eye left
-  rotate: false
-  xy: 107, 198
-  size: 15, 13
-  orig: 15, 13
-  offset: 0, 0
-  index: -1
-eye right
-  rotate: false
-  xy: 67, 131
-  size: 17, 13
-  orig: 17, 13
-  offset: 0, 0
-  index: -1
-hand_right
+hand_L
   rotate: true
-  xy: 135, 456
-  size: 123, 64
-  orig: 123, 64
+  xy: 2, 109
+  size: 292, 408
+  orig: 292, 408
   offset: 0, 0
   index: -1
-handleft
+khan sau
   rotate: false
-  xy: 208, 640
-  size: 205, 81
-  orig: 205, 81
+  xy: 733, 3
+  size: 204, 426
+  orig: 204, 426
   offset: 0, 0
   index: -1
-head
-  rotate: false
-  xy: 509, 860
-  size: 125, 161
-  orig: 125, 161
-  offset: 0, 0
-  index: -1
-light
-  rotate: false
-  xy: 636, 891
-  size: 67, 67
-  orig: 67, 67
-  offset: 0, 0
-  index: -1
-lip
-  rotate: false
-  xy: 135, 427
-  size: 42, 27
-  orig: 42, 27
-  offset: 0, 0
-  index: -1
-lipduoi
-  rotate: false
-  xy: 636, 865
-  size: 40, 24
-  orig: 40, 24
-  offset: 0, 0
-  index: -1
-liptren
-  rotate: false
-  xy: 208, 585
-  size: 34, 10
-  orig: 34, 10
-  offset: 0, 0
-  index: -1
-tren
-  rotate: false
-  xy: 208, 597
-  size: 85, 41
-  orig: 85, 41
-  offset: 0, 0
-  index: -1
-tt1
+nguc
   rotate: true
-  xy: 705, 924
-  size: 34, 17
-  orig: 34, 17
+  xy: 708, 679
+  size: 337, 314
+  orig: 337, 314
   offset: 0, 0
   index: -1
-tt3
+toc3
   rotate: true
-  xy: 499, 689
-  size: 32, 8
-  orig: 32, 8
+  xy: 2, 35
+  size: 72, 178
+  orig: 72, 178
   offset: 0, 0
   index: -1
-tt4
+toc4
   rotate: false
-  xy: 295, 620
-  size: 28, 18
-  orig: 28, 18
+  xy: 355, 403
+  size: 351, 613
+  orig: 351, 613
   offset: 0, 0
   index: -1
-tt5
+vay
   rotate: false
-  xy: 509, 713
-  size: 22, 10
-  orig: 22, 10
+  xy: 412, 68
+  size: 319, 333
+  orig: 319, 333
   offset: 0, 0
   index: -1
-vatao
-  rotate: false
-  xy: 2, 213
-  size: 131, 366
-  orig: 131, 366
+
+skeleton2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hand_R
+  rotate: true
+  xy: 2, 120
+  size: 134, 348
+  orig: 134, 348
   offset: 0, 0
   index: -1
-vatquan
-  rotate: false
-  xy: 509, 725
-  size: 75, 133
-  orig: 75, 133
+toc1
+  rotate: true
+  xy: 352, 2
+  size: 118, 171
+  orig: 118, 171
+  offset: 0, 0
+  index: -1
+toc2
+  rotate: true
+  xy: 352, 122
+  size: 132, 197
+  orig: 132, 197
   offset: 0, 0
   index: -1
 vong
-  rotate: false
-  xy: 636, 960
-  size: 98, 61
-  orig: 98, 61
-  offset: 0, 0
-  index: -1
-vongphai
-  rotate: false
-  xy: 67, 146
-  size: 38, 65
-  orig: 38, 65
-  offset: 0, 0
-  index: -1
-vongquan
   rotate: true
-  xy: 2, 46
-  size: 165, 63
-  orig: 165, 63
-  offset: 0, 0
-  index: -1
-vongtrai
-  rotate: true
-  xy: 2, 2
-  size: 42, 52
-  orig: 42, 52
+  xy: 551, 108
+  size: 146, 155
+  orig: 146, 155
   offset: 0, 0
   index: -1

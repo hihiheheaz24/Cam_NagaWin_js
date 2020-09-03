@@ -76,10 +76,6 @@ cc.Class({
         require('SoundManager1').instance.playButton();
         if (Global.TopGameView.node.getParent())
             require('UIManager').instance.onHideView(Global.TopGameView.node, false);
-        if (Global.TopListView.node.getParent() === null)
-            require('UIManager').instance.instantiate_parent.addChild(Global.TopListView.node);
-        Global.TopListView.init(this.data);
-        Global.TopListView.setPlayer = false;
         require("GameManager").getInstance().setCurView(CURRENT_VIEW.TOP_VIEW);
 
     }

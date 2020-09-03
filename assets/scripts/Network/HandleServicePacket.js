@@ -336,13 +336,7 @@ var HandleServicePacket = cc.Class({
                                 }
                                 // Global.TopGameView.getNextTopGame();
                             }
-                            // if (require("GameManager").getInstance().isGettingTopGameId && list.length > 0) {
-                            //     Global.TopListView.init(list);
-                            //     Global.TopListView.setPlayer = false;
-                            //     let len = list.length;
-                            //     let timeEnd = list[len - 1].timeEnd;
-                            //     require("UIManager").instance.setTime(timeEnd);
-                            // }
+                        
                         }
                         break;
 

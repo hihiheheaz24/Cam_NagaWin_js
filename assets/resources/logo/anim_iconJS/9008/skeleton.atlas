@@ -1,104 +1,90 @@
 
 skeleton.png
-size: 512,512
+size: 1024,256
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-1
-  rotate: false
-  xy: 406, 444
-  size: 23, 13
-  orig: 23, 13
-  offset: 0, 0
-  index: -1
 2
-  rotate: true
-  xy: 241, 184
-  size: 29, 15
-  orig: 29, 15
-  offset: 0, 0
-  index: -1
-3
-  rotate: true
-  xy: 241, 215
-  size: 87, 24
-  orig: 87, 24
-  offset: 0, 0
-  index: -1
-4
   rotate: false
-  xy: 339, 390
-  size: 30, 21
-  orig: 30, 21
+  xy: 208, 94
+  size: 201, 160
+  orig: 201, 160
   offset: 0, 0
   index: -1
-5
+Layer 1
   rotate: false
-  xy: 406, 459
-  size: 55, 17
-  orig: 55, 17
+  xy: 2, 35
+  size: 16, 16
+  orig: 16, 16
   offset: 0, 0
   index: -1
-6
+Layer 1 copy
   rotate: false
-  xy: 270, 319
-  size: 35, 23
-  orig: 35, 23
-  offset: 0, 0
-  index: -1
-7
-  rotate: false
-  xy: 158, 149
-  size: 36, 31
-  orig: 36, 31
-  offset: 0, 0
-  index: -1
-bg
-  rotate: false
-  xy: 2, 304
-  size: 266, 172
-  orig: 266, 172
-  offset: 0, 0
-  index: -1
-bich
-  rotate: false
-  xy: 2, 112
-  size: 39, 31
-  orig: 39, 31
-  offset: 0, 0
-  index: -1
-cham
-  rotate: false
-  xy: 463, 461
+  xy: 590, 133
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
-l
+Layer 1 copy 2
   rotate: false
-  xy: 270, 413
-  size: 134, 63
-  orig: 134, 63
+  xy: 590, 133
+  size: 15, 15
+  orig: 15, 15
   offset: 0, 0
   index: -1
-light
+Layer 1 copy 3
   rotate: false
-  xy: 270, 344
-  size: 67, 67
-  orig: 67, 67
+  xy: 722, 241
+  size: 13, 13
+  orig: 13, 13
   offset: 0, 0
   index: -1
-quay
+Layer 1 copy 4
   rotate: false
-  xy: 2, 182
-  size: 237, 120
-  orig: 237, 120
+  xy: 722, 241
+  size: 13, 13
+  orig: 13, 13
   offset: 0, 0
   index: -1
-text
+Layer 1 copy 5
   rotate: false
-  xy: 2, 145
-  size: 154, 35
-  orig: 154, 35
+  xy: 722, 241
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 53
+  size: 204, 201
+  orig: 204, 201
+  offset: 0, 0
+  index: -1
+chuong
+  rotate: false
+  xy: 590, 150
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+ef1
+  rotate: false
+  xy: 307, 3
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+ef2
+  rotate: true
+  xy: 208, 2
+  size: 90, 97
+  orig: 90, 97
+  offset: 0, 0
+  index: -1
+ef3
+  rotate: true
+  xy: 411, 97
+  size: 157, 177
+  orig: 157, 177
   offset: 0, 0
   index: -1

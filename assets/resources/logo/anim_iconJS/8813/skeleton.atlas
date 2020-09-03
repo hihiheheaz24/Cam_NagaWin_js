@@ -1,62 +1,125 @@
 
 skeleton.png
-size: 512,512
+size: 1024,256
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-bat
+Layer 1
   rotate: false
-  xy: 268, 346
-  size: 136, 125
-  orig: 136, 125
+  xy: 560, 169
+  size: 16, 16
+  orig: 16, 16
   offset: 0, 0
   index: -1
-bg
+Layer 1 copy
   rotate: false
-  xy: 2, 301
-  size: 264, 170
-  orig: 264, 170
-  offset: 0, 0
-  index: -1
-cham
-  rotate: false
-  xy: 268, 329
+  xy: 360, 141
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
+Layer 1 copy 2
+  rotate: false
+  xy: 360, 141
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Layer 1 copy 3
+  rotate: false
+  xy: 959, 183
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Layer 1 copy 4
+  rotate: false
+  xy: 959, 183
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Layer 1 copy 5
+  rotate: false
+  xy: 959, 183
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Ses Ku
+  rotate: false
+  xy: 382, 168
+  size: 176, 85
+  orig: 176, 85
+  offset: 0, 0
+  index: -1
+bat
+  rotate: false
+  xy: 741, 124
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 52
+  size: 206, 201
+  orig: 206, 201
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 959, 198
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
 dia
   rotate: false
-  xy: 2, 191
-  size: 180, 108
-  orig: 180, 108
+  xy: 210, 63
+  size: 148, 93
+  orig: 148, 93
   offset: 0, 0
   index: -1
-light
+ef1
   rotate: false
-  xy: 406, 404
-  size: 67, 67
-  orig: 67, 67
+  xy: 872, 166
+  size: 85, 87
+  orig: 85, 87
   offset: 0, 0
   index: -1
-text
+ef10
   rotate: false
-  xy: 2, 157
-  size: 119, 32
-  orig: 119, 32
+  xy: 560, 187
+  size: 179, 66
+  orig: 179, 66
   offset: 0, 0
   index: -1
-trag
+ef11
   rotate: false
-  xy: 2, 101
-  size: 51, 54
-  orig: 51, 54
+  xy: 210, 158
+  size: 170, 95
+  orig: 170, 95
+  offset: 0, 0
+  index: -1
+ef2
+  rotate: true
+  xy: 872, 86
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+trang
+  rotate: false
+  xy: 77, 3
+  size: 45, 47
+  orig: 45, 47
   offset: 0, 0
   index: -1
 vang
-  rotate: true
-  xy: 184, 213
-  size: 86, 53
-  orig: 86, 53
+  rotate: false
+  xy: 2, 2
+  size: 73, 48
+  orig: 73, 48
   offset: 0, 0
   index: -1

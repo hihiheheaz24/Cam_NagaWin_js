@@ -1,55 +1,104 @@
 
 skeleton.png
-size: 512,512
+size: 1024,256
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-bg
-  rotate: false
-  xy: 2, 342
-  size: 264, 168
-  orig: 264, 168
-  offset: 0, 0
-  index: -1
-cham
+Layer 1
   rotate: false
   xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Layer 1 copy
+  rotate: false
+  xy: 208, 50
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
-cup
+Layer 1 copy 2
   rotate: false
-  xy: 2, 214
-  size: 134, 126
-  orig: 134, 126
+  xy: 208, 50
+  size: 15, 15
+  orig: 15, 15
   offset: 0, 0
   index: -1
-light
+Layer 1 copy 3
   rotate: false
-  xy: 2, 19
-  size: 67, 67
-  orig: 67, 67
+  xy: 452, 85
+  size: 13, 13
+  orig: 13, 13
   offset: 0, 0
   index: -1
-text
+Layer 1 copy 4
+  rotate: false
+  xy: 452, 85
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Layer 1 copy 5
+  rotate: false
+  xy: 452, 85
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Layer 381
+  rotate: false
+  xy: 208, 67
+  size: 127, 154
+  orig: 127, 154
+  offset: 0, 0
+  index: -1
+Layer 382
+  rotate: false
+  xy: 337, 81
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Vector Smart Object
   rotate: true
-  xy: 387, 298
-  size: 212, 38
-  orig: 212, 38
+  xy: 585, 116
+  size: 105, 122
+  orig: 105, 122
   offset: 0, 0
   index: -1
-x1
+bork
   rotate: false
-  xy: 268, 375
-  size: 117, 135
-  orig: 117, 135
+  xy: 2, 20
+  size: 204, 201
+  orig: 204, 201
   offset: 0, 0
   index: -1
-x2
+chip1
   rotate: false
-  xy: 2, 88
-  size: 101, 124
-  orig: 101, 124
+  xy: 709, 141
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+chip2
+  rotate: true
+  xy: 922, 118
+  size: 103, 66
+  orig: 103, 66
+  offset: 0, 0
+  index: -1
+ef1
+  rotate: true
+  xy: 823, 135
+  size: 86, 97
+  orig: 86, 97
+  offset: 0, 0
+  index: -1
+ef2
+  rotate: false
+  xy: 452, 100
+  size: 131, 121
+  orig: 131, 121
   offset: 0, 0
   index: -1

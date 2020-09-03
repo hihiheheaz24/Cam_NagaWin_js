@@ -16,6 +16,7 @@ var InvitePlayerInTable = cc.Class({
         data_list: {
             default: [],
             type: [FriendData]
+            
         },
         bg_mask: cc.Node,
 

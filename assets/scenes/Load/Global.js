@@ -67,7 +67,6 @@ window.Global = {
     CashOutView:null,
     GroupOptionInGame:null,
     TopGameView: null,
-    TopListView: null,
     ChipOnline: null,
     InviteFriendInTable:null,
     JackpotView: null,
